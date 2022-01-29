@@ -6,6 +6,8 @@
 #### 2. Results
 #### 3. Summary
 
+---------------------------------------------------------------------------------------------------
+
 #### 1. Overview of the Analysis
 
   V. Isualize gave Omar and I an assignment to create a summary DataFrame of the ride-sharing data by city type. We will be utilizing Pandas and Matplotlib to create a multiple-line graph that shows the total weekly fares for each city type.
